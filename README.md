@@ -19,8 +19,11 @@
          style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
 </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        French <img src="./images/france-flag.png" alt="France Flag" width="30px"
-            style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+    French 
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAACNiR0NAAAAQ0lEQVR4AWMYBwMIAAkABQUDWzfx//+zFEEXNQbCoUhDJlUwAeQG5P8MAiykKhgjBWI+G8lKmE0NKoICyqUCQ7sAiiUAnCkBCJlkriAAAAAElFTkSuQmCC"
+         alt="French Flag" 
+         width="30px" 
+         style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
     </li>
 </ul>
 
