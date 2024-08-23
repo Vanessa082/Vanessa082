@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=Wah+Vanessa;JavaScript+Enthusiast+%7C+Aspiring+Full-Stack+Developer+%7C+React+Learner+">
 
 ## About Me
 
@@ -54,6 +55,8 @@ I am passionate about JavaScript and have experience in building robust and user
     <img src="https://img.shields.io/badge/Headless_UI-%23437bff.svg?style=for-the-badge&logo=javascript&logoColor=white"
         alt="Headless UI">
 </div>
+
+
 
 ### 📚 Backend Technologies:
 
