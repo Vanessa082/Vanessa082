@@ -32,7 +32,7 @@
 
 ## Technologies
 
-I am passionate about JavaScript and have experience in building robust and user-friendly applications using the following technologies:
+I am passionate about JavaScript and have experience in building robust and user-friendly projects using the following technologies:
 
 ### 💻 Programming Languages:
 
@@ -47,6 +47,8 @@ I am passionate about JavaScript and have experience in building robust and user
     <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white"
         alt="HTML">
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+     <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+        alt="React">
     <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
         alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/Headless_UI-%23437bff.svg?style=for-the-badge&logo=javascript&logoColor=white"
