@@ -4,15 +4,16 @@
 - 🌍 **Location:** Younde Cameroon.
 - 💻 **Occupation:** Aspiring Full-Stack Developer
 - 🚀 **Experience:** JavaScript Enthusiast, working on becoming a Full-Stack Developer
-- 🎓 **Education:** Self-taught with hands-on experience in HTML, CSS, JavaScript, and Full-Stack projects
-- ✉️ **Contact:** [wahvanessa22@gmail.com](mailto:wahvanessa22@gmail.com@gmail.com). | <a href="tel:+237671492013">Tell: +237 671492013</a>
+- 🎓 **Education:** Software Engineer with hands-on experience in HTML, CSS, JavaScript, and Full-Stack projects
+- ✉️ **Contact:** [wahvanessa22@gmail.com](mailto:wahvanessa22@gmail.com@gmail.com). | <a href="tel:+237671492013">Tell: +237671492013</a>
 
 
 ### 🌐 Languages I Speak
 
 <ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        English <img src="./images/united-kingdom-flag.png" alt="UK Flag" width="30px"
+        English <img src="![image](https://github.com/user-attachments/assets/ba774379-3bf6-4184-8bad-1132a6e0971a)
+"
             style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
