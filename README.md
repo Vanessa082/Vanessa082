@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=Wah+Vanessa;JavaScript+Enthusiast+%7C+Aspiring+Full-Stack+Developer+%7C+React+Learner+">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi%2C+I%27m+Wah+%F0%9F%91%8B+|+Always+Eager+to+Learn+and+Collaborate+|+Open+to+New+Opportunities)](https://git.io/typing-svg)
 
 ## About Me
 
@@ -74,9 +74,8 @@ I am passionate about JavaScript and have experience in building robust and user
         alt="PostgreSQL">
 </div>
 
-## Connect with Me
-
-I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the platforms below:
+🤝 **Let's Connect:**
+I'm always open to networking and collaborating with fellow tech enthusiasts. Whether you want to discuss the latest trends, or just want to connect over a shared interest, feel free to reach out!
 
 <table>
     <tr>
