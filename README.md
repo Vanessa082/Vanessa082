@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi%2C+I%27m+Wah+%F0%9F%91%8B+|+Always+Eager+to+Learn+and+Collaborate+|+Open+to+New+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi%2C+I%27m+Wah+%F0%9F%91%8B+|+Open+to+New+Opportunities)](https://git.io/typing-svg)
 
 ## About Me
 
