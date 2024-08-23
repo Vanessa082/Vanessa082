@@ -20,10 +20,10 @@
 </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
     French 
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAACNiR0NAAAAQ0lEQVR4AWMYBwMIAAkABQUDWzfx//+zFEEXNQbCoUhDJlUwAeQG5P8MAiykKhgjBWI+G8lKmE0NKoICyqUCQ7sAiiUAnCkBCJlkriAAAAAElFTkSuQmCC"
+    <img src="https://github.com/user-attachments/assets/5734d337-454e-414c-8074-77bcc4b8a01d"
          alt="French Flag" 
          width="30px" 
-         style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
+         style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">         
     </li>
 </ul>
 
