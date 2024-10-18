@@ -68,7 +68,7 @@ I am passionate about JavaScript and have experience in building robust and user
 </div>
 
 ### 🗄️ Databases:
-
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
         alt="PostgreSQL">
@@ -77,7 +77,7 @@ I am passionate about JavaScript and have experience in building robust and user
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" 
         alt="MongoDB">
 </div>
-
+</div>
 🤝 **Let's Connect:**
 I'm always open to networking and collaborating with fellow tech enthusiasts. Whether you want to discuss the latest trends, or just want to connect over a shared interest, feel free to reach out!
 
