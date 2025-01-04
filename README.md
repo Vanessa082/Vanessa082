@@ -52,6 +52,8 @@ I am passionate about JavaScript and have experience in building robust and user
         alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/Headless_UI-%23437bff.svg?style=for-the-badge&logo=javascript&logoColor=white"
         alt="Headless UI">
+  <img src="https://img.shields.io/badge/Shadcn-black.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" 
+       alt="Shadcn">
 </div>
 
 
