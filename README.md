@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&vCenter=true&width=435&lines=Hi%2C+I'm+Wah+%F0%9F%91%8B;Hi%2C+I'm+Wah+%F0%9F%91%8A;Hi%2C+I'm+Wah+%F0%9F%91%8B;Hi%2C+I'm+Wah+%F0%9F%91%8A)](https://git.io/typing-svg)
+kkk[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&vCenter=true&width=435&lines=Hi%2C+I'm+Wah+%F0%9F%91%8B;Hi%2C+I'm+Wah+%F0%9F%91%8A;Hi%2C+I'm+Wah+%F0%9F%91%8B;Hi%2C+I'm+Wah+%F0%9F%91%8A)](https://git.io/typing-svg)
 
 ## About Me
 
@@ -92,11 +92,7 @@ I'm always open to networking and collaborating with fellow tech enthusiasts. Wh
                     height="48" width="48" alt="LinkedIn" />
             </a>
         </td>
-        <td>
-            <a href="https://instagram.com/yourinstagramusername" target="blank"><img align="center"
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                    alt="instagram" height="48" width="48" /></a>
-        </td>
+<!--        -->
 <!--         <td> -->
 <!--             <a href="https://wa.me/qr/yourwhatsappnumber">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
