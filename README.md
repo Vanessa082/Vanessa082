@@ -5,7 +5,7 @@
 - 🌍 **Location:** Younde Cameroon.
 - 💻 **Occupation:** Full-Stack Developer
 - 🎓 **Education:** Software Engineer with hands-on experience in HTML, CSS, JavaScript, and Full-Stack projects
-- 🎯 **Future Goals:** Dive deeper into TypeScript and contribute to larger projects
+- 🎯 **Future Goals:** Dive deeper into Web development and contribute to larger projects
 - 📝 **Contributions:** Contributed to Wikimedia project WikiMatch
 - ✉️ **Contact:** [wahvanessa22@gmail.com](mailto:wahvanessa22@gmail.com@gmail.com)
 
