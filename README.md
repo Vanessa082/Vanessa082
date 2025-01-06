@@ -6,7 +6,6 @@
 - 💻 **Occupation:** Full-Stack Developer
 - 🎓 **Education:** Software Engineer with hands-on experience in HTML, CSS, JavaScript, and Full-Stack projects
 - 🎯 **Future Goals:** Dive deeper into Web development and contribute to larger projects
-- 📝 **Contributions:** Contributed to Wikimedia project WikiMatch
 - ✉️ **Contact:** [wahvanessa22@gmail.com](mailto:wahvanessa22@gmail.com@gmail.com)
 
 
@@ -91,9 +90,7 @@ I'm always open to networking and collaborating with fellow tech enthusiasts. Wh
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
                     height="48" width="48" alt="LinkedIn" />
             </a>
-        </td>
-<!--        -->
-<!--         <td> -->
+        </td>    
 <!--             <a href="https://wa.me/qr/yourwhatsappnumber">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
                     height="48" width="48" alt="WhatsApp" />
