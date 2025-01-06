@@ -72,7 +72,7 @@ I am passionate about JavaScript and have experience in building robust and user
         alt="MongoDB">
 </div>
 
-🤝 **Let's Connect:**
+### 🤝 **Let's Connect:**
 I'm always open to networking and collaborating with fellow tech enthusiasts. Whether you want to discuss the latest trends, or just want to connect over a shared interest, feel free to reach out!
 
 <table>
