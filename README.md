@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌍 **Location:** Younde Cameroon.
+- 🌍 **Location:** Yaounde Cameroon.
 - 💻 **Occupation:** Full-Stack Developer
 - 🎓 **Education:** Software Engineer with hands-on experience in HTML, CSS, JavaScript, and Full-Stack projects
 - 🎯 **Future Goals:** Dive deeper into Web development and contribute to larger projects
