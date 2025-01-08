@@ -7,6 +7,10 @@
 - 🎓 **Education:** Software Engineer with hands-on experience in HTML, CSS, JavaScript, and Full-Stack projects
 - 🎯 **Future Goals:** Dive deeper into Web development and contribute to larger projects
 
+### Favorite Quote
+
+_"She believed she could, so she did. In a world where challenges are endless, her determination is limitless. Every line of code is a step forward, a victory over doubt."_
+
 ### 🌐 Languages I Speak
 
 <ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
