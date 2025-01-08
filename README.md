@@ -104,10 +104,6 @@ I'm always open to networking and collaborating with fellow tech enthusiasts. Wh
     </tr>
 </table>
 
-### Favorite Quote
-
-_"She believed she could, so she did. In a world where challenges are endless, her determination is limitless. Every line of code is a step forward, a victory over doubt."_
-
 ## 📚 Articles on Medium
 
 I enjoy sharing my knowledge and experiences through writing. Check out some of my articles on Medium:
