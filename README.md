@@ -112,7 +112,8 @@ I'm always open to networking and collaborating with fellow tech enthusiasts. Wh
 
 I enjoy sharing my knowledge and experiences through writing. Check out some of my articles on Medium:
 
-- **[Stepping Out of Fear A Journey of Growth: My First Month at Rebase Academy](https://medium.com/@wahvanessa22/stepping-out-of-fear-a-journey-of-growth-my-first-month-at-rebase-academy-384c5f9cfabe)** - Stepping Out of Fear A Journey of Growth: My First Month at Rebase Academy.
+- **[Stepping Out of Fear A Journey of Growth: My First Month at Rebase Academy](https://medium.com/@wahvanessa22/stepping-out-of-fear-a-journey-of-growth-my-first-month-at-rebase-academy-384c5f9cfabe)**
+  Stepping Out of Fear A Journey of Growth: My First Month at Rebase Academy.
 - **[From Skepticism to Success: My First Hackathon Journey with Wiki Mentor and Rebase Academy](https://medium.com/@wahvanessa22/from-skepticism-to-success-my-first-hackathon-journey-with-wiki-mentor-and-rebase-academy-45f9bfde5390)** -From Skepticism to Success: My First Hackathon Journey with Wiki Mentor and Rebase Academy.
 
 You can read more of my articles on [Medium @wahvanessa22](https://medium.com/@wahvanessa22).
