@@ -16,10 +16,6 @@ _"She believed she could, so she did. In a world where challenges are endless, h
 <ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
     English 
-    <img src="https://github.com/user-attachments/assets/ba774379-3bf6-4184-8bad-1132a6e0971a"
-         alt="UK Flag" 
-         width="30px" 
-         style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
 </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
     French         
