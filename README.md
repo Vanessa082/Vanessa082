@@ -22,11 +22,7 @@ _"She believed she could, so she did. In a world where challenges are endless, h
          style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
 </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-    French 
-    <img src="https://github.com/user-attachments/assets/5734d337-454e-414c-8074-77bcc4b8a01d"
-         alt="French Flag" 
-         width="30px" 
-         style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">         
+    French         
     </li>
 </ul>
 
